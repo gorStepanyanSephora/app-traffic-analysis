@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Eval/analysis workspaces (generated, not part of the skill)
+*-workspace/
+evals/results/
